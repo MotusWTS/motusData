@@ -1,0 +1,11 @@
+Package: motusData
+Type: Package
+Title: Data package containing sample motus data
+Version: 0.1.0
+Author: 
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Data package that contains sample motus data for use with the motus RBook.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
